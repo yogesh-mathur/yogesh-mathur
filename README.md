@@ -1,6 +1,6 @@
 - 👋 Hi Everyone, My Self Yogesh Mathur, Thanks for visiting my profile.
 - Are you tech enthusiastic person lets connect.
-- Woo-Hoo 
+- Woo-Hoo lets create amazing things using technologies like JavaScript
 - Talks about JS 
 - I am passionate about JavaScript.
 - Well my designation is software developer but i am always trying to creating a software which is highly scalable and robust, fast.
